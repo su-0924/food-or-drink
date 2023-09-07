@@ -1,4 +1,4 @@
-# food-or-drink
+# food-packaging
 SIGNATE「食品パッケージ画像解析チャレンジ」
 
 「drink」 or 「food」の2値分類
